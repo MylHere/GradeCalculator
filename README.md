@@ -22,7 +22,7 @@ The `GradeCalculator` program is a basic tool written in Java that allows a stud
 - Java Development Kit (JDK) installed on your system.
 ### Installation
 1. Clone the repository:
-git clone https://github.com/MylHere/GradeCalculator
+   https://github.com/MylHere/GradeCalculator
 2. Compile the Java source code:
 javac GradeCalculator.java
 ## Usage
