@@ -8,7 +8,6 @@ A simple Java program that calculates the total marks, average percentage, and a
   - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 ## Description
 The `GradeCalculator` program is a basic tool written in Java that allows a student to input their exam scores in various subjects (English, Urdu, Math, Physics, Computer, Islamiat) and calculates the total marks obtained, average percentage, and assigns a grade based on the calculated average percentage.
