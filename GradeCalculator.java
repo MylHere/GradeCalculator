@@ -22,23 +22,23 @@ public class GradeCalculator {
         System.out.println("Enter your Islamiat marks:");
         int isl=sc.nextInt();
         int total=eng+urdu+math+phy+comp+isl;
-        System.out.println("Your obtained marks is: "+total+"/600");
+        System.out.println("Obtained marks is: "+total+"/600");
         int avg=total/6;
-        System.out.println("Your average percentage is "+avg +"%");
+        System.out.println("Average percentage is "+avg +"%");
         if(avg>90){
-            System.out.println("A Grade");
+            System.out.println("Grade A");
         }
         else if(avg>80 && avg <90){
-            System.out.println("B Grade");
+            System.out.println("Grade B");
         }
         else if(avg>70 && avg <80){
-            System.out.println("C Grade");
+            System.out.println("Grade C");
         }
         else if(avg>55 && avg <70){
-            System.out.println("D Grade");
+            System.out.println("Grade D");
         }
         else if(avg<55){
-            System.out.println("You are FAIL");
+            System.out.println("FAIL");
         }
 
 
